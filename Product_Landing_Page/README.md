@@ -1,7 +1,7 @@
 # Product landing page using HTML CSS Javascript
 
 
-### [Watch it on YouTube](https://youtu.be/uJDinRITQgw)
+
 
 #### Product landing page using HTML CSS Javascript
 
